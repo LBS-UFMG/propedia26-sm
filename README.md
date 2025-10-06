@@ -1,4 +1,4 @@
-# Propedia 26 — Supplementary Material data (propedia26-sm)
+# Propedia 26 — Supplementary Material
 
 Propedia 26 is the 2026 release of the Propedia database, a comprehensive and curated collection of protein–peptide interaction complexes. This update significantly expands the scope of the previous versions, doubling the number of available entries and providing machine-learning-ready datasets for computational biology, structural bioinformatics, and AI-driven research.
 
@@ -7,19 +7,17 @@ Propedia 26 is the 2026 release of the Propedia database, a comprehensive and cu
 
 Download this supplementary dataset or clone the repository:
 
-<code>
-git clone https://github.com/propedia/propedia26_sm.git
-</code>
+```git clone https://github.com/propedia/propedia26_sm.git
+```
 
 
 Load data in Python:
 
-<code>
-import pandas as pd
+```import pandas as pd
 
 propedia = pd.read_csv('data/propedia26_v7.csv', sep=';')
+```
 
-</code>
 
 
 ## Citation
