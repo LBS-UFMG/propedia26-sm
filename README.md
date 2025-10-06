@@ -2,6 +2,14 @@
 
 Propedia 26 is the 2026 release of the Propedia database, a comprehensive and curated collection of protein–peptide interaction complexes. This update significantly expands the scope of the previous versions, doubling the number of available entries and providing machine-learning-ready datasets for computational biology, structural bioinformatics, and AI-driven research.
 
+## Links
+
+- **Web-tool**: https://bioinfo.dcc.ufmg.br/propedia26
+
+- **Source-code**: https://github.com/LBS-UFMG/propedia26
+
+- **Supplementary material**: https://github.com/LBS-UFMG/propedia26-sm
+
 
 ## How to use
 
