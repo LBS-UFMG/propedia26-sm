@@ -15,13 +15,15 @@ Propedia 26 is the 2026 release of the Propedia database, a comprehensive and cu
 
 Download this supplementary dataset or clone the repository:
 
-```git clone https://github.com/propedia/propedia26_sm.git
+```
+git clone https://github.com/propedia/propedia26_sm.git
 ```
 
 
 Load data in Python:
 
-```import pandas as pd
+```
+import pandas as pd
 
 propedia = pd.read_csv('data/propedia26_v7.csv', sep=';')
 ```
