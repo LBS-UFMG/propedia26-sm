@@ -5,14 +5,14 @@
 		<node id="1" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="Test" position="(429.0, 654.0)" />
 		<node id="2" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="Alternative test" position="(432.0, 742.0)" />
 		<node id="3" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Cross-validation (k=10)" position="(900.0, 42.0)" />
-		<node id="4" name="Predictions" qualified_name="Orange.widgets.evaluate.owpredictions.OWPredictions" project_name="Orange3" version="" title="Test" position="(878.0, 394.0)" />
+		<node id="4" name="Predictions" qualified_name="Orange.widgets.evaluate.owpredictions.OWPredictions" project_name="Orange3" version="" title="Test" position="(878.0, 393.0)" />
 		<node id="5" name="Predictions" qualified_name="Orange.widgets.evaluate.owpredictions.OWPredictions" project_name="Orange3" version="" title="Alternative test" position="(910.0, 725.0)" />
 		<node id="6" name="kNN" qualified_name="Orange.widgets.model.owknn.OWKNNLearner" project_name="Orange3" version="" title="kNN" position="(425.0, 65.0)" />
 		<node id="7" name="Gradient Boosting" qualified_name="Orange.widgets.model.owgradientboosting.OWGradientBoosting" project_name="Orange3" version="" title="Gradient Boosting" position="(430.0, 303.0)" />
 		<node id="8" name="SVM" qualified_name="Orange.widgets.model.owsvm.OWSVM" project_name="Orange3" version="" title="SVM" position="(427.0, 142.0)" />
 		<node id="9" name="Random Forest" qualified_name="Orange.widgets.model.owrandomforest.OWRandomForest" project_name="Orange3" version="" title="Random Forest" position="(430.0, 221.0)" />
-		<node id="10" name="Gradient Boosting" qualified_name="Orange.widgets.model.owgradientboosting.OWGradientBoosting" project_name="Orange3" version="" title="Catboost" position="(431.0, 387.0)" />
-		<node id="11" name="Gradient Boosting" qualified_name="Orange.widgets.model.owgradientboosting.OWGradientBoosting" project_name="Orange3" version="" title="xgboost" position="(432.0, 470.0)" />
+		<node id="10" name="Gradient Boosting" qualified_name="Orange.widgets.model.owgradientboosting.OWGradientBoosting" project_name="Orange3" version="" title="Catboost" position="(431.0, 386.0)" />
+		<node id="11" name="Gradient Boosting" qualified_name="Orange.widgets.model.owgradientboosting.OWGradientBoosting" project_name="Orange3" version="" title="xgboost" position="(432.0, 469.0)" />
 		<node id="12" name="Gradient Boosting" qualified_name="Orange.widgets.model.owgradientboosting.OWGradientBoosting" project_name="Orange3" version="" title="xgboost-RF" position="(434.0, 558.0)" />
 	</nodes>
 	<links>
@@ -5484,8 +5484,8 @@ X3ZhcnOUKYwSbW9kaWZpZWRfdmFyaWFibGVzlF2UdWJhdS4=
 		<properties node_id="3" format="pickle">gASVfZkAAAAAAAB9lCiMFGNvbXBhcmlzb25fY3JpdGVyaW9ulEsAjBJjb250cm9sQXJlYVZpc2li
 bGWUiIwNY3Zfc3RyYXRpZmllZJSIjAduX2ZvbGRzlEsDjAluX3JlcGVhdHOUSwOMCnJlc2FtcGxp
 bmeUSwCMBHJvcGWURz+5mZmZmZmajAtzYW1wbGVfc2l6ZZRLCYwTc2F2ZWRXaWRnZXRHZW9tZXRy
-eZRDQgHZ0MsAAwAAAAAF6AAAAuEAAAlBAAAFnwAABegAAAL9AAAJQQAABZ8AAAABAAAAAA1wAAAF
-6AAAAv0AAAlBAAAFn5SMEnNodWZmbGVfc3RyYXRpZmllZJSIjAh1c2Vfcm9wZZSJjAtzY29yZV90
+eZRDQgHZ0MsAAwAAAAABEgAAAWkAAARrAAAEJwAAARIAAAGFAAAEawAABCcAAAAAAAAAAAXoAAAB
+EgAAAYUAAARrAAAEJ5SMEnNodWZmbGVfc3RyYXRpZmllZJSIjAh1c2Vfcm9wZZSJjAtzY29yZV90
 YWJsZZR9lIwQc2hvd19zY29yZV9oaW50c5R9lCiMBk1vZGVsX5SIjAZUcmFpbl+UiYwFVGVzdF+U
 iYwCQ0GUiIwXUHJlY2lzaW9uUmVjYWxsRlN1cHBvcnSUiIwLVGFyZ2V0U2NvcmWUiIwJUHJlY2lz
 aW9ulIiMBlJlY2FsbJSIjAJGMZSIjANBVUOUiIwHTG9nTG9zc5SJjAtTcGVjaWZpY2l0eZSJjBdN
@@ -6173,8 +6173,8 @@ ZzcuZzYuZ2FwMJRLAYaUjA1nNy5nNy5nNy5nYXAwlEsBhpR0lIwFbWV0YXOUjAEjlEsDhpSFlIwK
 Y2xhc3NfdmFyc5SMBnRhcmdldJRLAYaUhZR1YmF1Lg==
 </properties>
 		<properties node_id="4" format="pickle">gASVrQIAAAAAAAB9lCiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNzYXZlZFdpZGdldEdlb21ldHJ5
-lENCAdnQywADAAAAAAtSAAABoQAADjgAAANxAAALUgAAAb0AAA44AAADcQAAAAEAAAAADXAAAAtS
-AAABvQAADjgAAANxlIwJc2VsZWN0aW9ulF2UjAtzaG93X3Njb3Jlc5SIjAtzY29yZV90YWJsZZR9
+lENCAdnQywADAAAAAAG9AAAAyAAABKMAAAJWAAABvQAAAOQAAASjAAACVgAAAAAAAAAABegAAAG9
+AAAA5AAABKMAAAJWlIwJc2VsZWN0aW9ulF2UjAtzaG93X3Njb3Jlc5SIjAtzY29yZV90YWJsZZR9
 lIwQc2hvd19zY29yZV9oaW50c5R9lCiMBk1vZGVsX5SIjAZUcmFpbl+UiYwFVGVzdF+UiYwCQ0GU
 iIwXUHJlY2lzaW9uUmVjYWxsRlN1cHBvcnSUiIwLVGFyZ2V0U2NvcmWUiIwJUHJlY2lzaW9ulIiM
 BlJlY2FsbJSIjAJGMZSIjANBVUOUiIwHTG9nTG9zc5SJjAtTcGVjaWZpY2l0eZSJjBdNYXR0aGV3
@@ -6187,8 +6187,8 @@ Z2V0X2NsYXNzlIwIUG9zaXRpdmWUaAd9lGghSwJ1jAdjbGFzc2VzlIwITmVnYXRpdmWUjAhQb3Np
 dGl2ZZSGlHViYXUu
 </properties>
 		<properties node_id="5" format="pickle">gASVrQIAAAAAAAB9lCiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNzYXZlZFdpZGdldEdlb21ldHJ5
-lENCAdnQywADAAAAAA5EAAABoAAAEXQAAANZAAAORAAAAbwAABF0AAADWQAAAAEAAAAADXAAAA5E
-AAABvAAAEXQAAANZlIwJc2VsZWN0aW9ulF2UjAtzaG93X3Njb3Jlc5SIjAtzY29yZV90YWJsZZR9
+lENCAdnQywADAAAAAA0xAAAB4QAAEGEAAANvAAANMQAAAf0AABBhAAADbwAAAAEAAAAADXAAAA0x
+AAAB/QAAEGEAAANvlIwJc2VsZWN0aW9ulF2UjAtzaG93X3Njb3Jlc5SIjAtzY29yZV90YWJsZZR9
 lIwQc2hvd19zY29yZV9oaW50c5R9lCiMBk1vZGVsX5SIjAZUcmFpbl+UiYwFVGVzdF+UiYwCQ0GU
 iIwXUHJlY2lzaW9uUmVjYWxsRlN1cHBvcnSUiIwLVGFyZ2V0U2NvcmWUiIwJUHJlY2lzaW9ulIiM
 BlJlY2FsbJSIjAJGMZSIjANBVUOUiIwHTG9nTG9zc5SJjAtTcGVjaWZpY2l0eZSJjBdNYXR0aGV3
